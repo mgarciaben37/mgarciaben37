@@ -1,4 +1,4 @@
-<h1>👋 Hi, I´m Mar García</h1>
+<h1 style="text-align:center;">👋 Hi, I´m Mar García</h1>
 
 ### Certified Moodle Administrator | Graphic and web designer | Functional Analyst and Product Owner.
 
